@@ -3,7 +3,6 @@
 > 
 
 ## Проект состоит из:
-> main.py
 > bot.py
 > database.db
 > config.py
